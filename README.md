@@ -1,4 +1,4 @@
-# 📌 InnovaGraphics  
+📌 InnovaGraphics  
 
 **InnovaGraphics** is an interactive, gamified learning platform for studying computer graphics.  
 It combines **theory, practice, and multiplayer battles** into a single web app, making the learning process both **engaging and effective**.  
@@ -10,28 +10,33 @@ Created as a collaborative project for a university contest, the platform allows
 
 ---
 
-## 📖 Table of Contents
-1. [Demo](#demo)  
-2. [Features](#features)  
-3. [Technologies](#technologies)  
-4. [My Contribution](#my-contribution)  
-5. [Achievements](#achievements)    
-6. [Credits](#credits)  
-7. [Contacts](#contacts)  
+## 📖 Table of Contents 
+1. [Demo](#demo)
+2. [Features](#features)
+3. [Technologies](#technologies)
+4. [My Contribution](#my-contribution)
+5. [Achievements](#achievements)
+6. [Credits](#credits)
+7. [Contacts](#contacts) 
 
 ---
 
 ## 🎥 Demo
 This project was created as a team effort for a university competition.  
 
-⚠️ *Note:* The project requires complex database and additional frontend configuration.  
+📌 *Note:* The project requires complex database and additional frontend configuration.  
 Since my main contribution was backend development, I provide:  
 - Full **source code** in this repository (for proof of authorship).  
 - A **demo presentation video** that demonstrates all the main features of the app.  
 
-👉 [Watch demo presentation video](посилання_на_відео)  
+👉 [Watch demo presentation video](https://drive.google.com/file/d/1xgVQnrpIzEYdkkxQgS3zuptRToqBlVGX/view?usp=sharing)  
 
-*(Screenshots from the demo video can be added here)*  
+Screenshots from video:
+![Screenshot 1](https://github.com/user-attachments/assets/d7bfcfeb-a02a-42bf-b6bb-6f15d5f45b24)
+![Screenshot 2](https://github.com/user-attachments/assets/d027d5e9-6398-46a3-bb0c-2cd8746c0823)
+![Screenshot 3](https://github.com/user-attachments/assets/e844bb91-cf6b-41cb-9f5f-5820de2f5426)
+![Screenshot 4](https://github.com/user-attachments/assets/538ba8aa-2b49-40a3-b48d-1382f731badd)
+
 
 ---
 
@@ -108,7 +113,7 @@ Since my main contribution was backend development, I provide:
 ---
 
 ## 👥 Credits
-- [Kateryna Babych](https://github.com/твій-github) 
+- [Kateryna Babych](https://github.com/babychkate) 
 - [Roksolana Shendiukh](https://github.com/roksolana-shendiukh)  
 - [Yaroslav Guz](https://github.com/Jarik13)
 
