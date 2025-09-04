@@ -31,13 +31,6 @@ Since my main contribution was backend development, I provide:
 
 👉 [Watch demo presentation video](https://drive.google.com/file/d/1xgVQnrpIzEYdkkxQgS3zuptRToqBlVGX/view?usp=sharing)  
 
-Screenshots from video:
-![Screenshot 1](https://github.com/user-attachments/assets/d7bfcfeb-a02a-42bf-b6bb-6f15d5f45b24)
-![Screenshot 2](https://github.com/user-attachments/assets/d027d5e9-6398-46a3-bb0c-2cd8746c0823)
-![Screenshot 3](https://github.com/user-attachments/assets/e844bb91-cf6b-41cb-9f5f-5820de2f5426)
-![Screenshot 4](https://github.com/user-attachments/assets/538ba8aa-2b49-40a3-b48d-1382f731badd)
-
-
 ---
 
 ## ✨ Features
